@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Dokument */
+p {
+    color: teal;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Gergia, "serif";
+    font-size: 16px
+    line-height: 18px;
+    width: 600px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+h1 {
+  font-family: Ana_Nakic_projektni_zadatak1 , "Helvetica Neue", Helvetica, Arial, "sans-Serif";
+  color: burlywood;
+ }
+
+h2 {
+ color: darkgreen;
+   }
+
+body {
+  background-image: url(Slike/Pozadina.jpg);
+ }
+
+ a {
+   color: teal;
+   font-family: Constantia, "Lucida Bright", "DejaVu Serif", Gergia, "serif";
+   font-size: 16px
+   line-height: 18px;
+   width: 200px;
+   background-color: aliceblue;
+   padding: 10px;
+ }
+
+
+  li {
+    color: black;
